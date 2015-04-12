@@ -1,0 +1,26 @@
+{
+  "name": "excelExporter",
+  "version": "1.0.0",
+  "description": "This node module will provide utility to developers to export contents as Excel from browser and user will be able to Save or open excel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anisoftcorporation/excelExporter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "module",
+    "export",
+    "to",
+    "excel"
+  ],
+  "author": "Anirban Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisoftcorporation/excelExporter/issues"
+  },
+  "homepage": "https://github.com/anisoftcorporation/excelExporter"
+}
