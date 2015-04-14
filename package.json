@@ -1,6 +1,6 @@
 {
   "name": "excelexporter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This node module will provide utility to developers to export contents as Excel from browser and user will be able to Save or open excel.",
   "main": "index.js",
   "scripts": {
